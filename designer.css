@@ -1,0 +1,59 @@
+#Topo{ 
+    width: auto; 
+    height: 190px;
+    border: auto;
+    margin: auto;
+    padding: 1px;
+    background-color: rgb(0, 191, 255);
+    }
+div{
+    display: inline-block;
+}
+#Menu{ 
+    padding: 0 0 0 70px;
+    margin: 0;
+    height: 630px;
+    border:5px solid black;
+    width: 150px;
+    background-color: black;
+    color:white;
+}
+#linksmenu{
+    padding: 70px 0 0 0;
+}
+a[href] {
+    color:white;
+}
+a[href]:hover {
+    color:darkmagenta;
+}
+
+#texto_pg_central{
+    font-size: 30px;
+    width: 1000px;
+    padding: 0 0px 0px 300px;
+    margin: 0;
+}
+#center{
+    text-align: center;
+}
+#rodape{
+    font-size: 20px;
+    background-color: rgb(16, 16, 68);
+    color: white;
+    text-align:center;
+    width: 1888px;
+    height: 245px;
+    margin: 0px 0px 0px 0px;
+}
+#alinhamento{
+    text-align: center;
+    padding: 55px 0 0 0;
+    color: white;
+}
+#imagenscima{
+    padding: 4px 0 0 0; /* */
+}
+#imagensbaixo{
+    padding: 0; /* */
+}
